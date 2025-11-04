@@ -1,7 +1,7 @@
 {
     "detected": false,
-    "undetected": true,
-    "semi_detected": false,
+    "undetected": false,
+    "semi_detected": true,
     "under_maintenance": false,
     "message": "Vanguard X is currently undetected",
     "update_url": "https://github.com/yourusername/vanguard-x/releases"
